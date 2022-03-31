@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+
+[![sboettcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboettcher&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/sboettcher)
 
 <!--
 **sboettcher/sboettcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
